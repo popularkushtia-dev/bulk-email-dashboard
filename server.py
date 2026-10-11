@@ -98,7 +98,7 @@ def home():
     <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Bulk vemio Automation Monitor by Imran</title>
+        <title>Bulk Vimeo 5x inviter Automation Monitoring by Imran</title>
         <style>
             body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0f172a; color: #f8fafc; margin: 0; padding: 20px; }
             .container { max-width: 1100px; margin: 0 auto; }
@@ -219,7 +219,7 @@ def home():
     <body>
         <div class="container">
             <div class="header-row">
-                <h1>📧 Bulk vemio Automation Monitor Dashboard by Imran</h1>
+                <h1>📧 Bulk Vimeo 5x inviter Automation Monitoring by Imran</h1>
                 <button class="btn-clear-all" onclick="clearAllHistory()">🗑️ Clear All History</button>
             </div>
             
